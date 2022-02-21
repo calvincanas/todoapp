@@ -1,0 +1,2 @@
+- able to view existing todos
+- crud todo
