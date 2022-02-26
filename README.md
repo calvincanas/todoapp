@@ -1,2 +1,5 @@
-- able to view existing todos
-- crud todo
+- [x] able to view existing todos
+- [x] crud todo
+- [ ] send email reminder for todo item with expiration date
+- [ ] better error handling in backend
+- [ ] fix issue on click of update and delete

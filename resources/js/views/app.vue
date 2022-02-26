@@ -1,8 +1,6 @@
 <template>
     <div>
-        <router-link to="/">Go to Home</router-link>
-        <router-link to="/todos">Go to Todos</router-link>
-        <div>
+        <div class="container">
             <router-view></router-view>
         </div>
     </div>
@@ -11,10 +9,6 @@
 
 export default {
     computed: {},
-    data() {
-        return {
-            message: 'Hello World!'
-        }
-    }
+    data() {}
 }
 </script>
